@@ -1,0 +1,14 @@
+<svg width="44" height="45" viewBox="0 0 44 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<mask id="killfx_mask" maskUnits="userSpaceOnUse" x="0" y="0" width="44" height="45">
+<rect width="44" height="45" fill="white"/>
+<ellipse cx="15.6" cy="19.6" rx="4.3" ry="4.7" fill="black"/>
+<ellipse cx="28.4" cy="19.6" rx="4.3" ry="4.7" fill="black"/>
+<path d="M22 25.2L24.5 29.4H19.5L22 25.2Z" fill="black"/>
+<rect x="17.7" y="34" width="1.7" height="7" fill="black"/>
+<rect x="21.15" y="34" width="1.7" height="7" fill="black"/>
+<rect x="24.6" y="34" width="1.7" height="7" fill="black"/>
+</mask>
+</defs>
+<path mask="url(#killfx_mask)" d="M22 3C12.6 3 6 9.6 6 18.4C6 23.6 8.4 27.6 12 30V36.5C12 38.4 13.6 40 15.5 40H28.5C30.4 40 32 38.4 32 36.5V30C35.6 27.6 38 23.6 38 18.4C38 9.6 31.4 3 22 3Z" fill="#F1F1F1"/>
+</svg>
